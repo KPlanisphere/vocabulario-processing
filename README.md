@@ -1,8 +1,5 @@
 # Vocabulario Processing Project
 
-## Repository Name
-vocabulario-processing
-
 ## Description
 This project focuses on processing text files to extract and optimize vocabulary using Python and regular expressions. The main goal is to prepare the vocabulary for information retrieval tasks by performing several preprocessing steps, including tokenization, punctuation removal, conversion to lowercase, and filtering out short words. The project is built upon the results of previous laboratories and demonstrates advanced text processing techniques to enhance the efficiency of information retrieval within large text datasets.
 
